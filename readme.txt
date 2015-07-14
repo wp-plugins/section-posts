@@ -31,7 +31,7 @@ This section describes how to install the plugin and get it working.
 2. Upload the 'section-posts' folder to the `/wp-content/plugins/` directory.
 3. Activate the plugin through the 'Plugins' menu in WordPress.
 4. Add widget instance(s) to one or more sidebars and configure each as required.
-5. Widgets are then made available in your through the Wordpress sidebar function.
+5. Widgets are then made available in your theme through the Wordpress sidebar function.
 
 
 == Frequently Asked Questions ==
